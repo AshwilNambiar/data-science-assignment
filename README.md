@@ -11,4 +11,4 @@ The repository contains an R-project that you can fork if you like, or you can d
 
 It is entirely up to you what tools you use to process the data, and how you would like to meassure similarity to our reference sentence.
 
-There is no right or wrong answers; we would like to use this as a starting point for a discussion on how you might approach a task like this: Workflow, tools, metrics and data considerations. However you chose to work with the data, we ask that you share any code you write.
+There is no right or wrong answers; we would like to use this as a starting point for a discussion on how you might approach a task like this: Workflow, tools, metrics and data considerations. However you chose to work with the data, we ask that you share any code you write along with suggested similar sentences.
