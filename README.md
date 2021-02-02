@@ -3,7 +3,7 @@
 
 ## Task
 
-This task is about natural language processing. It is based on a data set of 1,000 sentences in English, sampled from the Harry Potter book series, by J. K. Rowling. Your job is to find any sentences that might be similar to a reference sentence with the id "6756".
+This task is about natural language processing. It is based on a data set of 1,000 sentences in English, sampled from the Harry Potter book series, by J. K. Rowling. Your job is to find any sentences that might be similar to a reference sentence with the id "1140".
 
 The data is available at a Github repository: https://github.com/lassehjorthmadsen/data-science-assignment. It it located it the `data` folder in a csv-file called `harry.csv`.
 
