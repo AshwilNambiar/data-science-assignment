@@ -1,11 +1,11 @@
 # Assignment for technical interview
-### Digital Quality, Novo Nordisk, 2020-09-30
+### Digital Quality, Novo Nordisk, 2021-02-02
 
 ## Task
 
-This task is about natural language processing. It is based on a data set of 5,000 sentences in Danish, obtained from a general language corpus. Your job is to find any sentences that might be similar to a reference sentence with the id "7-21-440".
+This task is about natural language processing. It is based on a data set of 1,000 sentences in English, sampled from the Harry Potter book series, by J. K. Rowling. Your job is to find any sentences that might be similar to a reference sentence with the id "6756".
 
-The data is available at a Github repository: https://github.com/lassehjorthmadsen/data-science-assignment. It it located it the `data` folder in a csv-file called `sentences.csv`.
+The data is available at a Github repository: https://github.com/lassehjorthmadsen/data-science-assignment. It it located it the `data` folder in a csv-file called `harry.csv`.
 
 The repository contains an R-project that you can fork if you like, or you can download the data directly. The repository also contains an `R` folder with a three-line script, `read_data.R` that will load the data and identify the reference sentence.
 
